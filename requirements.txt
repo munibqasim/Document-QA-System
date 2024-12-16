@@ -1,0 +1,10 @@
+boto3
+pdf2image
+pytesseract
+langchain
+langchain-community
+faiss-cpu
+slack-sdk
+numpy
+botocore
+python-dotenv
